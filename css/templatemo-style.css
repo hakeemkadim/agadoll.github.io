@@ -10,9 +10,7 @@ http://www.templatemo.com/tm-509-hydro
 
 
   body {
-    background: -webkit-linear-gradient(106deg, rgb(243, 229, 228) 14%, rgb(219, 254, 251) 89%)  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(106deg, rgb(243, 229, 228) 14%, rgb(219, 254, 251) 89%);
-      background: #d9edf7;
+      background: linear-gradient(106deg, rgb(243, 229, 228) 14%, rgb(219, 254, 251) 89%);
       font-family: 'Tajawal', sans-serif;
       overflow-x: hidden;
   }
